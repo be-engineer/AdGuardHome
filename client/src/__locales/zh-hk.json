@@ -405,7 +405,6 @@
     "dns_privacy": "DNS 隱私",
     "setup_dns_privacy_1": "<0>DNS-over-TLS：</0>使用 <1>{{address}}</1>。",
     "setup_dns_privacy_2": "<0>DNS-over-HTTPS：</0>使用 <1>{{address}}</1>。",
-    "setup_dns_privacy_3": "<0>注意：加密 DNS 僅適用於 Android 9 或以上，除此之外您可能需要安裝其他軟體。</0><0>這些是您可以使用的軟體清單</0>",
     "setup_dns_privacy_android_1": "Android 9 原生支援 DNS-over-TLS。前網「設定」→「網路 & 網際網路」→「進階」→「私人 DNS」設定。",
     "setup_dns_privacy_android_2": "<0>AdGuard for Android</0> 支援  <1>DNS-over-HTTPS</1> 與 <1>DNS-over-TLS</1>。",
     "setup_dns_privacy_android_3": "<0>Intra</0> 對 Android 新增支援 <1>DNS-over-HTTPS</1>。",

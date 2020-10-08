@@ -415,7 +415,6 @@
     "dns_privacy": "DNS Privasi",
     "setup_dns_privacy_1": "<0>DNS-over-TLS:</0> Memakai <1>{{address}}</1> string.",
     "setup_dns_privacy_2": "<0>DNS-over-TLS:</0> Memakai <1>{{address}}</1> string.",
-    "setup_dns_privacy_3": "<0>Harap dicatat bahwa protokol DNS terenkripsi hanya didukung pada Android 9. Jadi Anda perlu memasang perangkat lunak tambahan untuk sistem operasi lain.</0><0>Berikut daftar perangkat lunak yang dapat Anda gunakan.</0>",
     "setup_dns_privacy_android_1": "Android 9 mendukung DNS-over-TLS secara asli. Untuk mengkonfigurasinya, buka Pengaturan → Jaringan & internet → Tingkat Lanjut → DNS Pribadi dan masukkan nama domain Anda di sana.",
     "setup_dns_privacy_android_2": "<0>AdGuard untuk Android</0> mendukung <1>DNS-over-HTTPS</1> dan <1>DNS-over-TLS</1>.",
     "setup_dns_privacy_android_3": "<0>Intra</0> menambahkan dukungan <1>DNS-over-HTTPS</1> untuk Android.",

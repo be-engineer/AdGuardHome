@@ -314,7 +314,6 @@
     "dns_privacy": "DNS-Integritet",
     "setup_dns_privacy_1": "<0>DNS-över-TLS:</0> Använd: <1>{{address}}</1>",
     "setup_dns_privacy_2": "<0>DNS-över-HTTPS:</0> Använd: <1>{{address}}</1>",
-    "setup_dns_privacy_3": "<0>Notera att krypterade DNS-protokoll endast stöds på Android 9. Du behöver därför installera ytterligare mjukvara för andra operativsystem.</0><0>Här är en lista över program du kan använda.</0>",
     "setup_dns_privacy_android_1": "Android 9 har inbyggt stöd för DNS-över-TLS. Konfigurera och uppge domännamn under Inställningar → Nätverk & Internet → Avancerat → Privat DNS.",
     "setup_dns_privacy_android_2": "<0>AdGuard för Android</0> stödjer <1>DNS-över-HTTPS</1> samt <1>DNS-över-TLS</1>.",
     "setup_dns_privacy_android_3": "<0>Intra</0> lägger till stöd för <1>DNS-ÖVER-HTTPS</1> till Android.",

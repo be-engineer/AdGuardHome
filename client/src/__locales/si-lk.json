@@ -363,7 +363,6 @@
     "dns_privacy": "DNS රහස්‍යතා",
     "setup_dns_privacy_1": "<0>DNS-over-TLS:</0> <1>{{address}}</1> තන්තුව භාවිතා කරයි.",
     "setup_dns_privacy_2": "<0>DNS-over-HTTPS:</0> <1>{{address}}</1> තන්තුව භාවිතා කරයි.",
-    "setup_dns_privacy_3": "<0>සංකේතාංකන ව.නා.ප. (DNS) කෙටුම්පත් සඳහා සහය දක්වන්නේ ඇන්ඩ්‍රොයිඩ් 9 පමණක් බව කරුණාවෙන් සලකන්න. එබැවින් ඔබ වෙනත් මෙහෙයුම් පද්ධති සඳහා අතිරේක මෘදුකාංග ස්ථාපනය කළ යුතුය.</0><0> ඔබට භාවිතා කළ හැකි මෘදුකාංග ලැයිස්තුවක් පහත දැක්‌වේ.</0>",
     "setup_dns_privacy_android_2": "<1>DNS-over-HTTPS</1> සහ <1>DNS-over-TLS</1> සඳහා <0>AdGuard for Android</0> සහය දක්වයි.",
     "setup_dns_privacy_ios_2": "<1>DNS-over-HTTPS</1> සහ <1>DNS-over-TLS</1> පිහිටුවීම් සඳහා <0>AdGuard for iOS</0> සහය දක්වයි.",
     "setup_dns_privacy_other_2": "<0>dnsproxy</0> දන්නා සියලුම ආරක්ෂිත DNS කෙටුම්පත් සඳහා සහය දක්වයි.",

@@ -1,5 +1,5 @@
 {
-    "client_settings": "cliënt Instellingen",
+    "client_settings": "Cliënt Instellingen",
     "example_upstream_reserved": "Je kan DNS upstream <0>specifiëren voor specifieke domein(en)</0>",
     "example_upstream_comment": "Het commentaar kan gespecificeerd worden",
     "upstream_parallel": "Gebruik parallelle verzoeken om te versnellen door gelijktijdig verzoeken te sturen naar alle upstream servers",
@@ -249,6 +249,8 @@
     "blocking_ipv6": "Blokkeren IP6",
     "dns_over_https": "DNS-via-HTTPS",
     "dns_over_tls": "DNS-via-TLS",
+    "download_mobileconfig_doh": ".mobileconfig voor DNS-via-HTTPS downloaden",
+    "download_mobileconfig_dot": ".mobileconfig voor DNS-via-TLS downloaden",
     "plain_dns": "Gewone DNS",
     "form_enter_rate_limit": "Voer ratio limiet in",
     "rate_limit": "Ratio limiet",
@@ -416,6 +418,7 @@
     "setup_dns_privacy_1": "<0>DNS-over-TLS:</0> Gebruik <1>{{address}}</1> string.",
     "setup_dns_privacy_2": "<0>DNS-over-HTTPS:</0> Gebruik <1>{{address}}</1> string.",
     "setup_dns_privacy_3": "<0>Hou er rekening mee dat het beveiligde DNS protocol alleen beschikbaar is voor Android 9. U moet dus extra software installeren voor andere besturingssystemen.</0><0>Hier is een lijst van te gebruiken software.</0>",
+    "setup_dns_privacy_4": "Op een iOS 14- of MacOS Big Sur-apparaat kun je een speciaal '.mobileconfig'-bestand downloaden dat <highlight>DNS-via-HTTPS</highlight> of <highlight>DNS-via-TLS</highlight> servers aan de DNS-instellingen toevoegt.",
     "setup_dns_privacy_android_1": "Android 9 ondersteunt native DNS-over-TLS. Om het te configureren, ga naar Instellingen → Netwerk & internet → Geavanceerd → Privé DNS en voer daar uw domeinnaam in.",
     "setup_dns_privacy_android_2": "<0>AdGuard voor Android</0>ondersteunt<1>DNS-over-HTTPS </1>en<1>DNS-over-TLS</1>.",
     "setup_dns_privacy_android_3": "<0> Intra </0> voegt <1> DNS-over-HTTPS</1> ondersteuning toe aan Android.",

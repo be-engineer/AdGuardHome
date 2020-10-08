@@ -414,7 +414,6 @@
     "dns_privacy": "DNSプライバシー",
     "setup_dns_privacy_1": "<0>DNS-over-TLS:</0> <1>{{address}}</1>という文字列を使用してください。",
     "setup_dns_privacy_2": "<0>DNS-over-HTTPS:</0> <1>{{address}}</1>という文字列を使用してください。",
-    "setup_dns_privacy_3": "<0>暗号化されたDNSプロトコルはAndroid 9でのみサポートされていることに注意してください。そのため、他のオペレーティングシステムでは追加のソフトウェアをインストールする必要があります。</0> <0>使用できるソフトウェアの一覧です。</0>",
     "setup_dns_privacy_android_1": "Android 9はDNS-over-TLSをネイティブにサポートします。設定するには、設定 → ネットワークとインターネット → 詳細設定 → プライベートDNS へ遷移し、そこにドメイン名を入力してください。",
     "setup_dns_privacy_android_2": "<0>AdGuard for Android</0>は、<1>DNS-over-HTTPS</1>と<1>DNS-over-TLS</1>をサポートしています。",
     "setup_dns_privacy_android_3": "<0>Intra</0>は、Androidに<1>DNS-over-HTTPS</1>サポートを追加します。",
